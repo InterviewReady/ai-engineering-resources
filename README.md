@@ -8,7 +8,7 @@ Research papers for software engineers to transition to AI Engineering
 
 ## Vectorization
 
-- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805) ([read online](https://webeditions.page/works/bert-pre-training/))
 - [IMAGEBIND: One Embedding Space To Bind Them All](https://arxiv.org/pdf/2305.05665)
 - [SONAR: Sentence-Level Multimodal and Language-Agnostic Representations](https://arxiv.org/pdf/2308.11466)
 - [FAISS library](https://arxiv.org/pdf/2401.08281)
